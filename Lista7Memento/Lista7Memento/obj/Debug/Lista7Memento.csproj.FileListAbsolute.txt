@@ -1,0 +1,10 @@
+C:\Users\kaziu\source\repos\Lista7Memento\Lista7Memento\bin\Debug\Lista7Memento.exe.config
+C:\Users\kaziu\source\repos\Lista7Memento\Lista7Memento\bin\Debug\Lista7Memento.exe
+C:\Users\kaziu\source\repos\Lista7Memento\Lista7Memento\bin\Debug\Lista7Memento.pdb
+C:\Users\kaziu\source\repos\Lista7Memento\Lista7Memento\obj\Debug\Lista7Memento.csproj.AssemblyReference.cache
+C:\Users\kaziu\source\repos\Lista7Memento\Lista7Memento\obj\Debug\Lista7Memento.csproj.SuggestedBindingRedirects.cache
+C:\Users\kaziu\source\repos\Lista7Memento\Lista7Memento\obj\Debug\Lista7Memento.Properties.Resources.resources
+C:\Users\kaziu\source\repos\Lista7Memento\Lista7Memento\obj\Debug\Lista7Memento.csproj.GenerateResource.cache
+C:\Users\kaziu\source\repos\Lista7Memento\Lista7Memento\obj\Debug\Lista7Memento.csproj.CoreCompileInputs.cache
+C:\Users\kaziu\source\repos\Lista7Memento\Lista7Memento\obj\Debug\Lista7Memento.exe
+C:\Users\kaziu\source\repos\Lista7Memento\Lista7Memento\obj\Debug\Lista7Memento.pdb

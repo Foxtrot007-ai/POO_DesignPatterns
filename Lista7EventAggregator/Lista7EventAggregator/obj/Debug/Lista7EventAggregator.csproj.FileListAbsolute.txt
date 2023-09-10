@@ -1,0 +1,10 @@
+C:\Users\kaziu\source\repos\Lista7EventAggregator\Lista7EventAggregator\bin\Debug\Lista7EventAggregator.exe.config
+C:\Users\kaziu\source\repos\Lista7EventAggregator\Lista7EventAggregator\bin\Debug\Lista7EventAggregator.exe
+C:\Users\kaziu\source\repos\Lista7EventAggregator\Lista7EventAggregator\bin\Debug\Lista7EventAggregator.pdb
+C:\Users\kaziu\source\repos\Lista7EventAggregator\Lista7EventAggregator\obj\Debug\Lista7EventAggregator.csproj.AssemblyReference.cache
+C:\Users\kaziu\source\repos\Lista7EventAggregator\Lista7EventAggregator\obj\Debug\Lista7EventAggregator.csproj.SuggestedBindingRedirects.cache
+C:\Users\kaziu\source\repos\Lista7EventAggregator\Lista7EventAggregator\obj\Debug\Lista7EventAggregator.Properties.Resources.resources
+C:\Users\kaziu\source\repos\Lista7EventAggregator\Lista7EventAggregator\obj\Debug\Lista7EventAggregator.csproj.GenerateResource.cache
+C:\Users\kaziu\source\repos\Lista7EventAggregator\Lista7EventAggregator\obj\Debug\Lista7EventAggregator.csproj.CoreCompileInputs.cache
+C:\Users\kaziu\source\repos\Lista7EventAggregator\Lista7EventAggregator\obj\Debug\Lista7EventAggregator.exe
+C:\Users\kaziu\source\repos\Lista7EventAggregator\Lista7EventAggregator\obj\Debug\Lista7EventAggregator.pdb
